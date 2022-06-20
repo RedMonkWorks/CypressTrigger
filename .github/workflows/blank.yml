@@ -23,7 +23,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/CypressTrigger@master
+      - uses: appleboy/jenkins-action@master
         with:
           url: "https://5206-125-17-251-66.in.ngrok.io/job/CypressStorefront/build?token=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"
           user: "yashit"
