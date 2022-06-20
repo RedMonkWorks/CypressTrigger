@@ -27,5 +27,5 @@ jobs:
         with:
           url: "https://5206-125-17-251-66.in.ngrok.io/job/CypressStorefront/build?token=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"
           user: "yashit"
-          token: ${{ 11aa926889dc5225f5eeaaa58b00449db7 }}
+          token: ${{ '11aa926889dc5225f5eeaaa58b00449db7' }}
           job: "CypressStorefront"
